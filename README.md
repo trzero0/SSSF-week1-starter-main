@@ -1,3 +1,5 @@
+# ALL TESTS PASSED 20/20
+
 # SSSF week 1 exercise. Submit to Oma
 
 This REST API is based on the API done in 2nd year course 'Basic Concepts of Web Applications'/'Web ohjelmoinnin perusteet'
